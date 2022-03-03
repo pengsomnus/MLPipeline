@@ -4,13 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d71b9bc2-c365-4829-87f7-805cf5fbf096" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/MLPipeline.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MLPipeline.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d71b9bc2-c365-4829-87f7-805cf5fbf096" name="Default Changelist" comment="new version">
+      <change afterPath="$PROJECT_DIR$/templates/assets/css/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/css/custom-styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/css/dataset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/font-awesome/fonts/fontawesome-webfontba72.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/font-awesome/fonts/fontawesome-webfontba72.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/font-awesome/fonts/fontawesome-webfontba72.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/font-awesome/fonts/fontawesome-webfontba72.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/font-awesome/fonts/fontawesome-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/fonts/glyphicons-halflings-regulard41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/img/bg-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/Lightweight-Chart/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/Lightweight-Chart/chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/Lightweight-Chart/cssCharts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/Lightweight-Chart/index - Copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/Lightweight-Chart/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/Lightweight-Chart/jquery.chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/Lightweight-Chart/jquery.chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/chart-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/custom-scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/dataTables/dataTables.bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/dataTables/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/dataTables/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/easypiechart-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/easypiechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/jquery.metisMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/morris/morris-0.4.3.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/morris/morris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/assets/js/morris/raphael-2.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/datasetsection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/empty.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/preprocess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/tab-panel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/table.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/css/dataset.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/css/dataset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/dataset.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/dataset.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +86,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -109,17 +153,37 @@
       <option name="presentableId" value="Default" />
       <updated>1640615695267</updated>
       <workItem from="1644816421641" duration="7722000" />
-      <workItem from="1646118442886" duration="774000" />
+      <workItem from="1646118442886" duration="9491000" />
     </task>
+    <task id="LOCAL-00001" summary="new version">
+      <created>1646121182462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646121182462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="new version" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version" />
   </component>
 </project>

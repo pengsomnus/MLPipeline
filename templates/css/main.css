@@ -1,0 +1,211 @@
+#header{
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 6%;
+    line-height: 20px;
+    background-color: rgba(33, 33, 33, 100);
+    text-align: center;
+}
+
+
+#menu { 
+    font:12px verdana, arial, sans-serif; 
+}
+#menu, #menu li {
+    list-style:none;
+    padding:0;
+    margin:0;
+}
+#menu li { 
+    float:left; 
+}
+#menu li a {
+    display:block;
+    /* 如果是中英文混排的文字，建议用固定宽度
+    width:150px;
+    height:30px;
+    line-height:30px;
+    text-align:center;
+    */
+    padding:8px 15px;
+    background:#3A4953;
+    color:#fff;
+    text-decoration:none;
+    border-right:1px solid #000;
+}
+#menu li a:hover {
+    background:#146C9C;
+    color:#fff;
+    text-decoration:none;
+    border-right:1px solid #000;
+}
+#menu li a.last {
+    border-right:0; /* 去掉左侧边框 */
+}
+
+
+
+#header1{
+    margin-left: 3%;
+    margin-top: 15px;
+    width: 7%;
+    height: 24px;
+    color: rgba(255, 255, 255, 100);
+    font-size: 16px;
+    text-align: left;
+    float: left;
+}
+#header1 a {
+    display:block;
+    /* 如果是中英文混排的文字，建议用固定宽度
+    width:150px;
+    height:30px;
+    line-height:30px;
+    text-align:center;
+    */
+    text-decoration: none;
+    color:#fff;
+}
+
+#header2{
+    margin-top: 10px;
+    margin-left: 80%;
+    width: 10%;
+    height: 24px;
+    color: rgba(255, 255, 255, 100);
+    font-size: 16px;
+    text-align: left;
+    float: left;
+}
+
+#notice{
+    margin-left: 1649px;
+    margin-top: 18px;
+    width: 28px;    
+    height: 20px;
+    color: rgba(145, 145, 145, 100);
+    font-size: 14px;
+    text-align: left;
+    font-family: SourceHanSansSC-regular;
+}
+
+#upload{
+    margin-left: 1741px;
+    margin-top: 18px;
+    width: 28px;
+    height: 20px;
+    color: rgba(145, 145, 145, 100);
+    font-size: 14px;
+    text-align: left;
+    font-family: SourceHanSansSC-regular;
+}
+
+#user{
+    margin-left: 1834px;
+    margin-top: 18px;
+    width: 42px;
+    height: 20px;
+    color: rgba(145, 145, 145, 100);
+    font-size: 14px;
+    text-align: left;
+    font-family: SourceHanSansSC-regular;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+  }
+
+.sidebar{
+    position: fixed;
+    left: -250px;
+    width: 250px;
+    top: 6%;
+    height: 94%;
+    background: rgba(33, 33, 33, 100);
+    transition: all .5s ease;
+    font-family: SourceHanSansSC-regular;
+  }
+  .sidebar header{
+    font-size: 22px;
+    color: #fff;
+    text-align: center;
+    line-height: 70px;
+    background: #063146;
+    user-select: none;
+    font-family: SourceHanSansSC-regular;
+  }
+  .sidebar ul a{
+    display: block;
+    height: 100%;
+    width: 100%;
+    line-height: 65px;
+    font-size: 20px;
+    color: #fff;
+    padding-left: 40px;
+    box-sizing: border-box;
+    border-top: 1px solid rgba(255, 255, 255, .1);
+    border-bottom: 1px solid black;
+    transition: .4s;
+    font-family: SourceHanSansSC-regular;
+  }
+  .sidebar ul li:hover a{
+    padding-left: 50px;
+    font-family: SourceHanSansSC-regular;
+  }
+  .sidebar ul a i{
+    margin-right: 16px;
+    font-family: SourceHanSansSC-regular;
+  }
+  #check{
+    margin-top: 100px;
+    display: none;
+  }
+  label #btn, label #cancel{
+    position: absolute;
+    cursor: pointer;
+    background: #042331;
+    border-radius: 3px;
+  }
+  label #btn{
+    left: 40px;
+    top: 6%;
+    font-size: 35px;
+    color: #fff;
+    padding: 6px 12px;
+    transition: all .5s;
+  }
+  label #cancel{
+    z-index: 1111;
+    left: -195px;
+    top: 6%;
+    font-size: 30px;
+    color: #0a5275;
+    padding: 4px 9px;
+    transition: all .5s ease;
+  }
+  #check:checked ~ .sidebar{
+    left: 0;
+  }
+  #check:checked ~ label #btn{
+    left: 250px;
+    opacity: 0;
+    pointer-events: none;
+  }
+  #check:checked ~ label #cancel{
+    left: 195px;
+  }
+  #check:checked ~ section{
+    margin-left: 250px;
+  }
+  section{
+    background: url(../img/bg.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    transition: all .5s;
+  }
